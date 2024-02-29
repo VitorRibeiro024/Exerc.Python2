@@ -15,11 +15,17 @@ e mostre o total do seu salário no referido mês, sabendo-se que são descontad
 8% para o INSS e 5% para o sindicato, faça um programa que nos dê o salário bruto, quanto pagou ao INSS, 
 quanto pagou ao sindicato e o salário líquido. Observe que Salário Bruto - Descontos = Salário Líquido. Calcule os 
 descontos e o salário líquido, conforme a tabela abaixo:
+
 a. + Salário Bruto : R$
+
 b. - IR (11%) : R$
+
 c. - INSS (8%) : R$
+
 d. - Sindicato ( 5%) : R$
+
 e. = Salário Liquido : R$
+
 7. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a 
 ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida
 em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem 
