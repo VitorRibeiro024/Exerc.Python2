@@ -1,0 +1,3 @@
+gh=float(input("Ganho por hora: ")
+h=int(input("Horas trabalhadas: ")
+sb=(gh*h)
